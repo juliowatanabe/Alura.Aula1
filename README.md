@@ -31,8 +31,4 @@ Aprender a manipular os dados, efetuar as análises estatísticas, criar o model
 
 ## Procedimento
 
-Todo o procedimento será feito em Python utilizando se o Goggle Colab Notebook.
-
-
-
-
+Todo o procedimento será feito em Python utilizando se o Jupyter Notebook.
