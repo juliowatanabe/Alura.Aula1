@@ -1,2 +1,2 @@
-# Alura.Aula1
-Alura.Aula1
+# Alura - Imersão Dados
+https://www.kaggle.com/c/lish-moa
